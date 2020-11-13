@@ -17,7 +17,7 @@ Moreover, with each application launch, we generate one SPECIAL OFFER! It's a pa
    4) Log out.
    5) Exit the program.
   
-- Offer examples:
+- Ticket examples:
 
     <img src="screenshots/tickets.png" width=800>
 
