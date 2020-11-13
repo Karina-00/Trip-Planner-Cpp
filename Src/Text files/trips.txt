@@ -1,0 +1,10 @@
+Poznan,Amsterdam,Flight,25.01.2021,1000,259.99
+Paris,Barcelona,Flight,02.01.2021,1010,459.99
+Karlskrona,Gdynia,Cruise,06.02.2021,1232,532.99
+Ibiza,Barcelona,Cruise,06.05.2021,1242,782.99
+Karlskrona,Gdynia - Ljubljana,Mixed,05.05.2021,1932,1032.99
+Vienna,Nice - Palma de Mallorca,Mixed,03.05.2021,3932,1039.99
+Poznan,Zurych,Flight,29.06.2021,2948,789.00
+Poznan,Dublin,Flight,04.08.2021,4321,399.99
+Berlin,Milan,Flight,26.03.2021,8349,299.99
+Zadar,Ankona,Cruise,14.02.2021,2930,300.00
